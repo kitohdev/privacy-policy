@@ -7,7 +7,7 @@ This repository manages privacy policies for mobile applications.
 ## アプリ一覧 / Applications
 
 ### Budget Manager
-- [プライバシーポリシー / Privacy Policy](https://[YOUR-GITHUB-USERNAME].github.io/privacy-policy/budget-manager/)
+- [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/budget-manager/)
 
 ## 追加方法 / How to Add a New App
 
@@ -31,7 +31,7 @@ To add a privacy policy for a new app:
 
 This repository is hosted on GitHub Pages.
 
-URL: `https://[YOUR-GITHUB-USERNAME].github.io/privacy-policy/`
+URL: `https://kitohdev.github.io/privacy-policy/`
 
 ## ライセンス / License
 
