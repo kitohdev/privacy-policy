@@ -9,6 +9,9 @@ This repository manages privacy policies for mobile applications.
 ### Budget Manager
 - [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/budget-manager/)
 
+### Voice Task Manager
+- [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/voice-task-manager/)
+
 ## 追加方法 / How to Add a New App
 
 新しいアプリのプライバシーポリシーを追加する場合：
