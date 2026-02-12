@@ -10,7 +10,7 @@ This repository manages privacy policies for mobile applications.
 - [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/budget-manager/)
 
 ### VOIDO
-- [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/voide/)
+- [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/voido/)
 
 ## 追加方法 / How to Add a New App
 
