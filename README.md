@@ -18,6 +18,9 @@ This repository manages privacy policies for mobile applications.
 ### hoos
 - [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/hoos-app/)
 
+### トレスタ / Toresta
+- [プライバシーポリシー / Privacy Policy](https://kitohdev.github.io/privacy-policy/trainingstamp/)
+
 ## 追加方法 / How to Add a New App
 
 新しいアプリのプライバシーポリシーを追加する場合：
